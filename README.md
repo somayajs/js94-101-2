@@ -13,3 +13,5 @@ Spans elements must be the same number as the number of the classes in the eleme
 Spans element must be appeare in alphbetic order
 
 When classes be removed from the element with className current it will also remove the corsssponding span from the documnet structure
+
+![](https://elzero.org/wp-content/uploads/2021/09/dom-assignment-two.gif)
